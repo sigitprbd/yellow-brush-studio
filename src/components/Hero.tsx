@@ -21,7 +21,7 @@ const Hero = () => {
       <div className="relative z-10 text-center section-padding max-w-4xl mx-auto text-white">
         <div className="space-y-8">
           <h1 className="text-6xl md:text-8xl font-bold leading-tight">
-            <span className="block text-primary drop-shadow-lg">YOUR NAME</span>
+            <span className="block text-primary drop-shadow-lg">SIGIT PRIBADI</span>
             <span className="block text-4xl md:text-5xl font-normal mt-2 opacity-90">
               ARTIST
             </span>

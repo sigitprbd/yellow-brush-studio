@@ -17,16 +17,6 @@ const pastWorks = {
       description: "A minimalist exploration of geometric forms in warm yellow tones.",
       status: "Sold"
     },
-    {
-      id: 2,
-      title: "Flowing Forms",
-      year: "2024",
-      medium: "Mixed Media",
-      dimensions: "30\" x 40\"",
-      image: artwork2,
-      description: "Abstract contemporary piece exploring organic movement.",
-      status: "Available"
-    }
   ],
   "2023": [
     {

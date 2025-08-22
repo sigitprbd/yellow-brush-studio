@@ -21,15 +21,6 @@ const Cart = () => {
       size: "24\" x 36\"",
       medium: "Acrylic on Canvas"
     },
-    {
-      id: 2,
-      title: "Flowing Forms",
-      price: 399,
-      image: artwork2,
-      quantity: 1,
-      size: "30\" x 40\"",
-      medium: "Mixed Media"
-    }
   ]);
 
   const updateQuantity = (id: number, newQuantity: number) => {

@@ -14,14 +14,6 @@ const artworks = [
     featured: true
   },
   {
-    id: 2,
-    title: "Flowing Forms",
-    price: "$399",
-    image: artwork2,
-    category: "Contemporary",
-    featured: true
-  },
-  {
     id: 3,
     title: "Type & Space",
     price: "$249",
